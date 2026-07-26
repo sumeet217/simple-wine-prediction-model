@@ -1,0 +1,4 @@
+[core]
+    remote = winepredsremote
+['remote "winepredsremote"']
+    url = s3://my-dvc-bucket02
